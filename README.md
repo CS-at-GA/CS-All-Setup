@@ -3,6 +3,9 @@
 1. [Create a github account](https://github.com/signup).
 2. Learn about Markdown
    1. [From Github](https://guides.github.com/features/mastering-markdown/)
+      1. [Math](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
+      2. [Diagrams](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams)
+      3. [More on Tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
    2. [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
    3. [10-minute tutorial](https://commonmark.org/help/tutorial/) and [Reference](https://commonmark.org/help/)
    4. A classic [reference](https://daringfireball.net/projects/markdown/basics)
