@@ -9,13 +9,14 @@
    2. [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
    3. [10-minute tutorial](https://commonmark.org/help/tutorial/) and [Reference](https://commonmark.org/help/)
    4. A classic [reference](https://daringfireball.net/projects/markdown/basics)
-3. Go to `https://github.com/<your user name>` and edit the `README.md` file that is there. Include _at least_ the following: 
+3. On github, create a new repository with the same name as your user name. Be sure to make it a public repository and to create a README.md file. Detailed information about this step can be found [here](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) 
+4. Go to `https://github.com/<your user name>` and edit the `README.md` file that is there. Include _at least_ the following: 
    - Previous coding experience, if any. 
    - Reason(s) for taking this class. 
    - Other interests (academic or otherwise). 
    - Goals you have for this class and/or projects you'd like to complete. 
-4. Follow CS @ GA on GitHub
-5. Create an issue!
+5. Follow CS @ GA on GitHub
+6. Create an issue!
    1. click `Issues` above.
    2. click the green `new Issue` button on the right.
    3. on the next screen, you will eventually choose the type of issue to request. For now, select `Open a blank issue`
