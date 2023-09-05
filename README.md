@@ -19,7 +19,7 @@
    - Goals you have for this class and/or projects you'd like to complete. 
 6. Follow CS @ GA on GitHub
 7. Create an issue!
-   1. Make sure you are in the [Setup Repository](https://github.com/CS-at-GA/00---Setup)
+   1. Make sure you are in the [Setup Repository](https://github.com/CS-at-GA/CS-All-Setup)
    2. click `Issues` above.
    3. click the green `new Issue` button on the right.
    4. on the next screen select `Open a blank issue`[^1]
