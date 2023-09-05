@@ -27,7 +27,7 @@
    6. finally, select `submit new issue`
 
 <!-- Footnotes -->
-## Footnotes
+**Footnotes**
 [^1]: you will eventually choose the type of issue to request
 
 
