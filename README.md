@@ -1,4 +1,4 @@
-## Github Stuff
+# Github Stuff
 
 1. [Create a github account](https://github.com/signup).
 2. Learn about Markdown
@@ -27,7 +27,7 @@
    6. finally, select `submit new issue`
 
 <!-- Footnotes -->
-
+# Footnotes
 [^1]: you will eventually choose the type of issue to request
 
 
