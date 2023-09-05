@@ -19,8 +19,15 @@
    - Goals you have for this class and/or projects you'd like to complete. 
 6. Follow CS @ GA on GitHub
 7. Create an issue!
-   1. click `Issues` above.
-   2. click the green `new Issue` button on the right.
-   3. on the next screen, you will eventually choose the type of issue to request. For now, select `Open a blank issue`
-   4. fill out a title and whatever you like in the "Leave a comment" section (you can even use Markdown here!)
-   5. finally, select `submit new issue`
+   1. Make sure you are in the [Setup Repository](https://github.com/CS-at-GA/00---Setup)
+   2. click `Issues` above.
+   3. click the green `new Issue` button on the right.
+   4. on the next screen select `Open a blank issue`[^1]
+   5. fill out a title and whatever you like in the "Leave a comment" section (you can even use Markdown here!)
+   6. finally, select `submit new issue`
+
+<!-- Footnotes -->
+
+[^1]: you will eventually choose the type of issue to request
+
+
