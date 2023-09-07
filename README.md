@@ -18,8 +18,7 @@
    - Reason(s) for taking this class. 
    - Other interests (academic or otherwise). 
    - Goals you have for this class and/or projects you'd like to complete. 
-5. Follow CS @ GA on GitHub
-6. Create an issue!
+5. Create an issue!
    1. Make sure you are in the [Setup Repository](https://github.com/CS-at-GA/CS-All-Setup)
    2. click `Issues` above.
    3. click the green `new Issue` button on the right.
