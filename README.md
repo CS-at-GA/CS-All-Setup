@@ -1,12 +1,12 @@
-# Github Stuff
+# GitHub Stuff
 
-1. [Create a github account](https://github.com/signup).
+1. [Create a GitHub account](https://github.com/signup).
 2. On github, create a new repository with the same name as your user name.
    - Detailed information about this step can be found [here](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)    
    - Be sure to make it a **public repository** when you create it. 
    - Create a README.md file.
 3. Learn about Markdown
-   1. [From Github](https://guides.github.com/features/mastering-markdown/)
+   1. [From GitHub](https://guides.github.com/features/mastering-markdown/)
       1. [Math](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
       2. [Diagrams](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams)
       3. [More on Tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
